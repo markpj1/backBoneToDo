@@ -247,7 +247,7 @@ label[for='toggle-all'] {
 }
 
 #todo-list li .priority-btn:after {
-	content: '!';
+	content: '!';	
 }
 
 #todo-list li .toggle:after {
